@@ -10,5 +10,7 @@ make && sudo make install
 
 ## 使用
 `get_any(string repeatStr, int times, [boolean backValue])`
+
 `get_eggplant(int times, [boolean backValue])`
+
 `get_eggplant_emoji()`
